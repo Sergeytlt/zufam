@@ -1,4 +1,4 @@
-baseurl = "https://sergeytlt.github.io/hugo/"
+baseurl = "http://your.base.url/"
 languageCode = "en-us"
 title = "My HugoMDL Site"
 theme = "HugoMDL"
